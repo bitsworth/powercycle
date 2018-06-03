@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class GridAnimator : MonoBehaviour {
     [SerializeField] private float scrollSpeedX = 0.0f;
